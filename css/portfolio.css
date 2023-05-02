@@ -101,6 +101,7 @@ main section figure {
 }
 main section figure img {
     width: 100%;
+    border: 3px solid black;
 }
 main section figure figcaption {
     text-align: center;
@@ -121,6 +122,10 @@ main.home section.twohome {
 main.home section.twohome figure.homefig {
   width: 100%; 
   
+}
+main.home section.twohome p {
+    text-align: center;
+    padding-bottom: 1%;
 }
 
 footer {
